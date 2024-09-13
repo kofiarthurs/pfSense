@@ -1,4 +1,4 @@
-<h1>Routing internet traffic through a pfSense firewall</h1>
+<h1>Routing Internet Traffic Through a pfSense Firewall</h1>
 
 <h2>Description</h2>
 For the setup, I have a domain controller, a pc and a firewall. These are their IPs:</br>
